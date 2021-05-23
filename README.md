@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">一个智能科学方向的大三学生！我喜欢代码和创作</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SpectrePrediction)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> 很差的🏆、我鼓足了勇气才将其放入自我介绍 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SpectrePrediction"/></a> </p>
 
-- 🔭 我正在完成一个暂时还未开源的项目，它是用于猫咪相似度分类的孪生神经网络
+### 更多想法
+- 🔭 我正在完成一个暂时还未开源的项目，它是用于猫咪相似度分类的孪生神经网络，马上问世！
 - 🌱 我正在学习更多的知识，有关深度学习，但不限于此
 - ⚡ 有趣的是：我学习的很慢，且需要激情去驱动，所以我的水平一般，请多担待
 
